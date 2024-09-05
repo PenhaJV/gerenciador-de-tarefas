@@ -30,7 +30,7 @@ Este projeto é um simples gerenciador de tarefas em Python, dividido em três m
 
 1. **Clone este repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone git@github.com:PenhaJV/gerenciador-de-tarefas.git
    ```
 
 2. **Navegue até o diretório do projeto**:
